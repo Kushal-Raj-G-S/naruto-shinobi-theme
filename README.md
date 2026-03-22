@@ -2,6 +2,20 @@
 
 Believe it. A high-energy VS Code theme pack inspired by Naruto, Akatsuki, Uchiha, and Six Paths aesthetics.
 
+## Quick Links
+
+- Repository: https://github.com/Kushal-Raj-G-S/naruto-shinobi-theme
+- Clone URL: https://github.com/Kushal-Raj-G-S/naruto-shinobi-theme.git
+- VS Code Extension: https://marketplace.visualstudio.com/items?itemName=kushal-raj-g-s.naruto-shinobi-theme
+
+## Creator
+
+- Name: Kushal Raj G S
+- GitHub: https://github.com/Kushal-Raj-G-S
+- Portfolio: https://kushalrajgs.in
+- Email: kushalrajgs@gmail.com
+- LinkedIn: https://www.linkedin.com/in/kushal-raj-g-s/
+
 [![Version](https://img.shields.io/badge/version-1.1.0-orange?style=flat-square)](https://github.com/Kushal-Raj-G-S/naruto-shinobi-theme)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
 [![VS Code](https://img.shields.io/badge/VS%20Code-1.70%2B-blue?style=flat-square)](https://code.visualstudio.com/)
