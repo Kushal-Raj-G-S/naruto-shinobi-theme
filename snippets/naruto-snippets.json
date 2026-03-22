@@ -1,0 +1,27 @@
+{
+	"Shadow Clone Jutsu": {
+		"prefix": "kagebunshin",
+		"body": [
+			"const ${1:clone} = { ...${2:original} };",
+			"console.log('Shadow Clone Jutsu!');"
+		],
+		"description": "Creates a shallow copy of an object (Shadow Clone)"
+	},
+	"Dattebayo Log": {
+		"prefix": "dattebayo",
+		"body": [
+			"console.log('${1:Believe it!}');"
+		],
+		"description": "Log a message with Naruto's catchphrase spirit"
+	},
+	"Rasengan Loop": {
+		"prefix": "rasengan",
+		"body": [
+			"while (${1:chakra} > 0) {",
+			"\t${2:// Spiral energy logic}",
+			"\t${1:chakra}--;",
+			"}"
+		],
+		"description": "A powerful loop construct"
+	}
+}

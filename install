@@ -1,0 +1,3 @@
+npx @vscode/vsce package
+
+code --install-extension naruto-shinobi-theme-1.0.0.vsix

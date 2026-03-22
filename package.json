@@ -1,0 +1,168 @@
+{
+  "name": "naruto-shinobi-theme",
+  "displayName": "Naruto Shinobi Theme",
+  "description": "Believe it! A vibrant VS Code theme inspired by Naruto Uzumaki and the ninja world. Features iconic orange, blue, and dark colors from the beloved anime.",
+  "version": "1.1.0",
+  "publisher": "kushal-raj-g-s",
+  "author": {
+    "name": "Kushal Raj G S",
+    "email": "kushalrajgs@gmail.com"
+  },
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "naruto",
+    "anime",
+    "manga",
+    "shinobi",
+    "ninja",
+    "orange",
+    "dark theme",
+    "konoha",
+    "uzumaki",
+    "chakra",
+    "hokage"
+  ],
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#FFFF00",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kushal-raj-g-s/naruto-shinobi-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/kushal-raj-g-s/naruto-shinobi-theme/issues"
+  },
+  "homepage": "https://github.com/kushal-raj-g-s/naruto-shinobi-theme#readme",
+  "license": "MIT",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Naruto Shinobi Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/naruto-shinobi-night-color-theme.json"
+      },
+      {
+        "label": "Naruto Hokage Dawn",
+        "uiTheme": "vs-dark",
+        "path": "./themes/naruto-hokage-dawn-color-theme.json"
+      },
+      {
+        "label": "Naruto Akatsuki",
+        "uiTheme": "vs-dark",
+        "path": "./themes/naruto-akatsuki-color-theme.json"
+      },
+      {
+        "label": "Naruto Sasuke Uchiha - Sharingan",
+        "uiTheme": "vs-dark",
+        "path": "./themes/naruto-sasuke-uchiha-color-theme.json"
+      },
+      {
+        "label": "Naruto Kurama Nine-Tails",
+        "uiTheme": "vs-dark",
+        "path": "./themes/naruto-kurama-ninetails-color-theme.json"
+      },
+      {
+        "label": "Naruto Sage Mode",
+        "uiTheme": "vs-dark",
+        "path": "./themes/naruto-sage-mode-color-theme.json"
+      },
+      {
+        "label": "Naruto Kakashi Copy Ninja",
+        "uiTheme": "vs-dark",
+        "path": "./themes/naruto-kakashi-copy-ninja-color-theme.json"
+      },
+      {
+        "label": "Naruto Might Guy Gates of Youth",
+        "uiTheme": "vs-dark",
+        "path": "./themes/naruto-might-guy-gates-color-theme.json"
+      },
+      {
+        "label": "Naruto Pain/Nagato - Rinnegan God",
+        "uiTheme": "vs-dark",
+        "path": "./themes/naruto-pain-nagato-rinnegan-color-theme.json"
+      },
+      {
+        "label": "Naruto Jiraiya - Gallant Toad Sage",
+        "uiTheme": "vs-dark",
+        "path": "./themes/naruto-jiraiya-toad-sage-color-theme.json"
+      },
+      {
+        "label": "Naruto Sakura Haruno - Cherry Blossom Storm",
+        "uiTheme": "vs-dark",
+        "path": "./themes/naruto-sakura-haruno-boruto-color-theme.json"
+      },
+      {
+        "label": "Naruto Hinata Hyuga - Byakugan Vision",
+        "uiTheme": "vs-dark",
+        "path": "./themes/naruto-hinata-hyuga-byakugan-color-theme.json"
+      },
+      {
+        "label": "Naruto Might Guy - 8th Gate of Death",
+        "uiTheme": "vs-dark",
+        "path": "./themes/naruto-might-guy-8th-gate-color-theme.json"
+      },
+      {
+        "label": "Naruto Itachi Uchiha - Tsukuyomi Dimension",
+        "uiTheme": "vs-dark",
+        "path": "./themes/naruto-itachi-uchiha-tsukuyomi-color-theme.json"
+      },
+      {
+        "label": "Naruto Minato Namikaze - Yellow Flash",
+        "uiTheme": "vs-dark",
+        "path": "./themes/naruto-minato-namikaze-yellow-flash-color-theme.json"
+      },
+      {
+        "label": "Naruto Kushina Uzumaki - Red Hot-Blooded Habanero",
+        "uiTheme": "vs-dark",
+        "path": "./themes/naruto-kushina-uzumaki-red-habanero-color-theme.json"
+      },
+      {
+        "label": "Naruto Shikamaru Nara - Shadow Strategist",
+        "uiTheme": "vs-dark",
+        "path": "./themes/naruto-shikamaru-nara-color-theme.json"
+      },
+      {
+        "label": "Naruto Madara Uchiha - 4th Great Ninja War",
+        "uiTheme": "vs-dark",
+        "path": "./themes/naruto-madara-uchiha-4th-war-color-theme.json"
+      },
+      {
+        "label": "Naruto Madara Uchiha - Ten Tails Jinchuriki",
+        "uiTheme": "vs-dark",
+        "path": "./themes/naruto-madara-juubi-jinchuriki-color-theme.json"
+      },
+      {
+        "label": "Naruto Obito Uchiha - Ten Tails Jinchuriki",
+        "uiTheme": "vs-dark",
+        "path": "./themes/naruto-obito-juubi-jinchuriki-color-theme.json"
+      },
+      {
+        "label": "Naruto Uzumaki - Sage of Six Paths",
+        "uiTheme": "vs-dark",
+        "path": "./themes/naruto-sage-of-six-paths-color-theme.json"
+      },
+      {
+        "label": "Naruto Sasuke Uchiha - Sage of Six Paths",
+        "uiTheme": "vs-dark",
+        "path": "./themes/naruto-sasuke-sage-of-six-paths-color-theme.json"
+      }
+    ],
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./snippets/naruto-snippets.json"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/naruto-snippets.json"
+      }
+    ]
+  }
+}
