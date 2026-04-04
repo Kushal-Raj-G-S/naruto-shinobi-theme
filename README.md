@@ -1,14 +1,19 @@
-# Naruto Shinobi Theme
+# 🍥 Naruto Shinobi Theme
 
-Believe it. A high-energy VS Code theme pack inspired by Naruto, Akatsuki, Uchiha, and Six Paths aesthetics.
+Believe it! A powerful VS Code theme pack inspired by Naruto, Akatsuki, Uchiha, and Six Paths aesthetics.
 
-## Quick Links
+[![Version](https://img.shields.io/badge/version-1.1.2-orange?style=flat-square)](https://github.com/Kushal-Raj-G-S/naruto-shinobi-theme)
+[![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
+[![VS Code](https://img.shields.io/badge/VS%20Code-1.70%2B-blue?style=flat-square)](https://code.visualstudio.com/)
 
-- Repository: https://github.com/Kushal-Raj-G-S/naruto-shinobi-theme
-- Clone URL: https://github.com/Kushal-Raj-G-S/naruto-shinobi-theme.git
-- VS Code Extension: https://marketplace.visualstudio.com/items?itemName=kushal-raj-g-s.naruto-shinobi-theme
+## 🔗 Quick Links
 
-## Creator
+- 🧩 VS Code Extension: https://marketplace.visualstudio.com/items?itemName=kushal-raj-g-s.naruto-shinobi-theme
+- 🐙 GitHub Repository: https://github.com/Kushal-Raj-G-S/naruto-shinobi-theme
+- 📥 Clone URL: https://github.com/Kushal-Raj-G-S/naruto-shinobi-theme.git
+- 🐛 Issues: https://github.com/Kushal-Raj-G-S/naruto-shinobi-theme/issues
+
+## 👨‍💻 Creator
 
 - Name: Kushal Raj G S
 - GitHub: https://github.com/Kushal-Raj-G-S
@@ -16,51 +21,51 @@ Believe it. A high-energy VS Code theme pack inspired by Naruto, Akatsuki, Uchih
 - Email: kushalrajgs@gmail.com
 - LinkedIn: https://www.linkedin.com/in/kushal-raj-g-s/
 
-[![Version](https://img.shields.io/badge/version-1.1.0-orange?style=flat-square)](https://github.com/Kushal-Raj-G-S/naruto-shinobi-theme)
-[![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
-[![VS Code](https://img.shields.io/badge/VS%20Code-1.70%2B-blue?style=flat-square)](https://code.visualstudio.com/)
+## 🆕 What's New in 1.1.2
 
-## Repository
+- Added 3 new themes:
+  - Naruto Gaara - Desert Sand Guardian
+  - Naruto Hashirama Senju - Wood Style Titan (First Hokage)
+  - Naruto Tobirama Senju - Water Style Strategist (Second Hokage)
+- Updated extension metadata and theme registry for the new additions.
 
-- GitHub: https://github.com/Kushal-Raj-G-S/naruto-shinobi-theme
-- Clone URL: https://github.com/Kushal-Raj-G-S/naruto-shinobi-theme.git
+## ✨ Why You Will Like It
 
-## Why This Theme Pack
+- 🎨 Anime-inspired, production-friendly contrast
+- 🌙 Dark-first palettes for long coding sessions
+- 🧠 Semantic highlighting enabled
+- ⚡ Carefully tuned UI + token colors
+- 🛠️ Works great across popular programming languages
 
-- Anime-inspired but production-friendly contrast
-- Carefully tuned syntax and UI colors
-- Multiple variants for different coding moods
-- Semantic highlighting enabled
-- Works across major programming languages
+## 🎭 Included Themes (25)
 
-## Theme Variants
+- Naruto Shinobi Night
+- Naruto Hokage Dawn
+- Naruto Akatsuki
+- Naruto Sasuke Uchiha - Sharingan
+- Naruto Kurama Nine-Tails
+- Naruto Sage Mode
+- Naruto Kakashi Copy Ninja
+- Naruto Might Guy Gates of Youth
+- Naruto Pain/Nagato - Rinnegan God
+- Naruto Jiraiya - Gallant Toad Sage
+- Naruto Sakura Haruno - Cherry Blossom Storm
+- Naruto Hinata Hyuga - Byakugan Vision
+- Naruto Might Guy - 8th Gate of Death
+- Naruto Itachi Uchiha - Tsukuyomi Dimension
+- Naruto Minato Namikaze - Yellow Flash
+- Naruto Kushina Uzumaki - Red Hot-Blooded Habanero
+- Naruto Shikamaru Nara - Shadow Strategist
+- Naruto Gaara - Desert Sand Guardian
+- Naruto Hashirama Senju - Wood Style Titan (First Hokage)
+- Naruto Tobirama Senju - Water Style Strategist (Second Hokage)
+- Naruto Madara Uchiha - 4th Great Ninja War
+- Naruto Madara Uchiha - Ten Tails Jinchuriki
+- Naruto Obito Uchiha - Ten Tails Jinchuriki
+- Naruto Uzumaki - Sage of Six Paths
+- Naruto Sasuke Uchiha - Sage of Six Paths
 
-This extension currently includes 22 themes:
-
-1. Naruto Shinobi Night
-2. Naruto Hokage Dawn
-3. Naruto Akatsuki
-4. Naruto Sasuke Uchiha - Sharingan
-5. Naruto Kurama Nine-Tails
-6. Naruto Sage Mode
-7. Naruto Kakashi Copy Ninja
-8. Naruto Might Guy Gates of Youth
-9. Naruto Pain/Nagato - Rinnegan God
-10. Naruto Jiraiya - Gallant Toad Sage
-11. Naruto Sakura Haruno - Cherry Blossom Storm
-12. Naruto Hinata Hyuga - Byakugan Vision
-13. Naruto Might Guy - 8th Gate of Death
-14. Naruto Itachi Uchiha - Tsukuyomi Dimension
-15. Naruto Minato Namikaze - Yellow Flash
-16. Naruto Kushina Uzumaki - Red Hot-Blooded Habanero
-17. Naruto Shikamaru Nara - Shadow Strategist
-18. Naruto Madara Uchiha - 4th Great Ninja War
-19. Naruto Madara Uchiha - Ten Tails Jinchuriki
-20. Naruto Obito Uchiha - Ten Tails Jinchuriki
-21. Naruto Uzumaki - Sage of Six Paths
-22. Naruto Sasuke Uchiha - Sage of Six Paths
-
-## Installation
+## 📦 Installation
 
 ### Marketplace
 
@@ -69,17 +74,15 @@ This extension currently includes 22 themes:
 3. Search `Naruto Shinobi Theme`
 4. Install
 5. Run `Preferences: Color Theme`
-6. Choose any Naruto variant
+6. Pick your ninja style
 
 ### VSIX
 
 ```bash
-code --install-extension naruto-shinobi-theme-1.1.0.vsix
+code --install-extension naruto-shinobi-theme-1.1.2.vsix
 ```
 
-## Recommended Settings
-
-Add this to your user settings JSON:
+## ⚙️ Recommended Settings
 
 ```jsonc
 {
@@ -96,7 +99,7 @@ Add this to your user settings JSON:
 }
 ```
 
-## Quick Customization
+## 🔧 Quick Customization
 
 ```jsonc
 {
@@ -113,24 +116,15 @@ Add this to your user settings JSON:
 }
 ```
 
-## Contributing
+## 🤝 Contributing
 
-PRs are welcome.
+PRs are welcome. For full guidelines, see [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md).
 
-1. Fork the repo
-2. Create a branch
-3. Make changes
-4. Test in VS Code
-5. Open PR
+## 💬 Support
 
-For detailed guidance, see [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md).
-
-## Support
-
-- Issues: https://github.com/Kushal-Raj-G-S/naruto-shinobi-theme/issues
 - Discussions: https://github.com/Kushal-Raj-G-S/naruto-shinobi-theme/discussions
 - Marketplace: https://marketplace.visualstudio.com/items?itemName=kushal-raj-g-s.naruto-shinobi-theme
 
-## License
+## 📄 License
 
 MIT - see [LICENSE](LICENSE).
